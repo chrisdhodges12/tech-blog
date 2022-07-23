@@ -13,7 +13,7 @@ If using to code for education/production, first install required dependencies b
 
 ## Application
 
-The app is deployed at https://dashboard.heroku.com/apps/obscure-stream-37468
+The app is deployed at https://obscure-stream-37468.herokuapp.com/
 
 
 ##  Screenshots
