@@ -1,18 +1,19 @@
 const { User }= require("../models");
+const bcrypt = require("bcrypt");
 
 const userData = [
     {
-        id: 1,
+        "id": 1,
         "username": "chris",
         "password": "chris",
     },
     {
-        id: 2,
+        "id": 2,
         "username": "john",
         "password": "john"
     },
     {
-        id: 3,
+        "id": 3,
         "username": "susan",
         "password": "susan"
     },

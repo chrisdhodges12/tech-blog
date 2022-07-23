@@ -171,6 +171,7 @@ input {
   margin: 0 0 20px 0;
   border: 3px solid var(--dark);
   border-radius: var(--border-radius);
+  padding:1%;
 }
 
 .card-header {
